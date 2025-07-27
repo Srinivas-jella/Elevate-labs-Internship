@@ -1,0 +1,4 @@
+Swagger UI is available at:
+http://localhost:8080/swagger-ui/index.html
+
+If the server is running, you can use this link to access the full API documentation.
